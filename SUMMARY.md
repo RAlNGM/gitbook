@@ -20,3 +20,5 @@
   * [Баланс участника](komandy-1/informaciya/balans-uchastnika.md)
   * [Ранговая карта](komandy-1/informaciya/rangovaya-karta.md)
   * [Статистика](komandy-1/informaciya/statistika.md)
+  * [Таблица лидеров](komandy-1/informaciya/tablica-liderov.md)
+* [Администрирование](komandy-1/administrirovanie.md)
