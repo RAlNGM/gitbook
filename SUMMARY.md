@@ -26,3 +26,4 @@
   * [Предупреждения](komandy-1/administrirovanie/preduprezhdeniya.md)
   * [Вынести предупреждение](komandy-1/administrirovanie/vynesti-preduprezhdenie.md)
   * [Удалить предупреждение](komandy-1/administrirovanie/udalit-preduprezhdenie.md)
+* [Весёлости](komandy-1/vesyolosti.md)
