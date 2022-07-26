@@ -1,5 +1,5 @@
 ---
-description: Gwinnett's official documentation.
+description: Официальная документация Gwinnett.
 cover: .gitbook/assets/green-hair-tatsumaki-one-punch-man.jpg
 coverY: 78.94273127753304
 ---
