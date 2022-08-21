@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Добро пожаловать!](README.md)
+* [❤ Добро пожаловать!](README.md)
 * [Изменения](izmeneniya.md)
 * [Контакты и ссылки](kontakty-i-ssylki.md)
 * [Большое спасибо](bolshoe-spasibo.md)
